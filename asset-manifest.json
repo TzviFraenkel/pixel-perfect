@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pixel-perfect/static/css/main.0404e490.css",
+    "main.js": "/pixel-perfect/static/js/main.9509795b.js",
+    "static/media/Livvic-MediumItalic.ttf": "/pixel-perfect/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
+    "static/media/Livvic-Bold.ttf": "/pixel-perfect/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
+    "static/media/Livvic-SemiBold.ttf": "/pixel-perfect/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
+    "static/media/avatar-nikita.png": "/pixel-perfect/static/media/avatar-nikita.48c5e7437adac469473f.png",
+    "static/media/avatar-arthur.png": "/pixel-perfect/static/media/avatar-arthur.1199b5c6fbe0d249fad5.png",
+    "static/media/avatar-aiysha.png": "/pixel-perfect/static/media/avatar-aiysha.83b2c9f02c215ac85405.png",
+    "index.html": "/pixel-perfect/index.html",
+    "main.0404e490.css.map": "/pixel-perfect/static/css/main.0404e490.css.map",
+    "main.9509795b.js.map": "/pixel-perfect/static/js/main.9509795b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0404e490.css",
+    "static/js/main.9509795b.js"
+  ]
+}
